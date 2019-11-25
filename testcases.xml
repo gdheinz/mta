@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<data>
+    <warning>
+        <name>DifferentStationTooClose</name>
+        <count>20</count>
+    </warning>
+    <warning>
+        <name>OtherProblem</name>
+        <count>1</count>
+    </warning>
+    <warning>
+        <name>StationsTooClose</name>
+        <count>5</count>
+    </warning>
+    <warning>
+        <name>StopsTooClose</name>
+        <count>521</count>
+    </warning>
+    <warning>
+        <name>UnusedStop</name>
+        <count>11</count>
+    </warning>
+    <warning>
+        <name>Invalid</name>
+        <count>0</count>
+    </warning>
+</data>
